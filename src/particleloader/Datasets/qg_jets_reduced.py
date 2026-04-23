@@ -78,8 +78,27 @@ hashes = {
         'be969642ab8435c3658af15a3f88fa7e',
         ],
 
-    '[dtype:fp16]': [#TODO
-        
+    '[dtype:fp16]': [
+        'bc3b179350016b58f2cdc30ea7840baf',
+        '1dfadd420ff590473f72588a97e22918',
+        'edd457892a8c7c0df3ae2b690ecca8c6',
+        'cf6d364d6f963242e93edbb928f57ed1',
+        'db821f9b7d2fe530da867a75c3cb76ae',
+        '12aaae7acafdd98b60604156d93b469f',
+        'cef891f0fa9397802f9950a0f80e3109',
+        '66960aed0ea535a32181b12611f7ac07',
+        '3355e7d91047ad160be99fc894610db1',
+        'c8fe7002d0405220616d42d502234265',
+        '922f5f98802afc96915bc30ddcb44a25',
+        '0b69da47a7a121e10a6fcc0803c95ede',
+        '7f17ebcbaef35b6a3b8548e815e6f0c8',
+        '002e6226da7f346cff04b94f2c19e51b',
+        'f40c65ecb390acdca08d91e19eb77d8a',
+        '026a6f195df37ae86246435f9e08c862',
+        'bfcf80cce5c3b4e3ad4f40581abef8eb',
+        'd7fa9c019dffb237c58736605cb7a2ce',
+        'eac256634f53540d5bb60a5b40e74d83',
+        '2db1b79216a300a72febffc2b1ed4a26',
         ],
 
     '[dtype:fp8e4m3fn]': [#TODO
