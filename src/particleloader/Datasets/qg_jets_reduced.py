@@ -120,7 +120,17 @@ hashes = {
         '2db1b79216a300a72febffc2b1ed4a26',
         ],
 
-    '[dtype:fp8e4m3fn]': [#TODO
+    '[dtype:fp8e4m3fn]': [
+        '157021704a6e750c59ea2e3d79d309fc',
+        '89770aecc996fe5971c8ba259b064b1a',
+        'f037173c5fd9f01160a822faf3962623',
+        '72ef5cae33150327c2c2324cc86f92a7',
+        '6790248f835d3369c6c4c36404072cad',
+        '5dd7644bfe4c97f0838f34d890138c66',
+        '63353716fa6fdbc4dc1af00b795d7be1',
+        'b909eae35f5f3561a3e3685827e7e3ff',
+        '3b141b7aa086e415872e3d273707aa41',
+        
         ],
 }
 
