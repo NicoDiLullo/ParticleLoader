@@ -3,7 +3,26 @@ from particleloader.Datasets.Dataset import Dataset
 
 ZENODO_URLS = {
     '[dtype:fp32]': [
-        #TODO
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_0.npz?download=1',
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_1.npz?download=1',
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_2.npz?download=1',
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_3.npz?download=1',
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_4.npz?download=1',
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_5.npz?download=1',
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_6.npz?download=1',
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_7.npz?download=1',
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_8.npz?download=1',
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_9.npz?download=1',
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_10.npz?download=1',
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_11.npz?download=1',
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_12.npz?download=1',
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_13.npz?download=1',
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_14.npz?download=1',
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_15.npz?download=1',
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_16.npz?download=1',
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_17.npz?download=1',
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_18.npz?download=1',
+        'https://zenodo.org/records/19362155/files/QG_jets_fp32_19.npz?download=1',
     ],
 
     '[dtype:fp16]': [ #TODO
