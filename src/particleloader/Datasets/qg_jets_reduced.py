@@ -25,7 +25,7 @@ ZENODO_URLS = {
         'https://zenodo.org/records/19362155/files/QG_jets_fp32_19.npz?download=1',
     ],
 
-    '[dtype:fp16]': [ #TODO
+    '[dtype:fp16]': [
         'https://zenodo.org/records/19362553/files/QG_jets_fp16_0.npz?download=1',
         'https://zenodo.org/records/19362553/files/QG_jets_fp16_1.npz?download=1',
         'https://zenodo.org/records/19362553/files/QG_jets_fp16_2.npz?download=1',
@@ -48,8 +48,27 @@ ZENODO_URLS = {
         'https://zenodo.org/records/19362553/files/QG_jets_fp16_19.npz?download=1',
     ],
 
-    '[dtype:fp8e4m3fn]': [ #TODO
-
+    '[dtype:fp8e4m3fn]': [
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_0.npz?download=1',
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_1.npz?download=1',
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_2.npz?download=1',
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_3.npz?download=1',
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_4.npz?download=1',
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_5.npz?download=1',
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_6.npz?download=1',
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_7.npz?download=1',
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_8.npz?download=1',
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_9.npz?download=1',
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_10.npz?download=1',
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_11.npz?download=1',
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_12.npz?download=1',
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_13.npz?download=1',
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_14.npz?download=1',
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_15.npz?download=1',
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_16.npz?download=1',
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_17.npz?download=1',
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_18.npz?download=1',
+        'https://zenodo.org/records/19362689/files/QG_jets_fp8e4m3fn_19.npz?download=1',
     ],
 }
 
