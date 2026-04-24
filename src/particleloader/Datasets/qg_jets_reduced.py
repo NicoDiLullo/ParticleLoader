@@ -130,7 +130,17 @@ hashes = {
         '63353716fa6fdbc4dc1af00b795d7be1',
         'b909eae35f5f3561a3e3685827e7e3ff',
         '3b141b7aa086e415872e3d273707aa41',
-        
+        'fa5ac6ec840811e912d770612529a5e1',
+        '3c7aa028337a7115be0ebbebeed05dfd',
+        '7c23ad35c5ef20b4eaea5ba9aa39b073',
+        '85fe446ea7891579943e4eada2127c79',
+        'e385516f6b332ac2b1703c8c0aced098',
+        '70ae2ecb7163e9772f25266518971890',
+        '6acf2addfbd0fd7689253aa8ec6a56d4',
+        '8e08c39adfa6717461a184cf2735383b',
+        'f0a2dc88c4db8387b275eb0fa1972377',
+        '28384475d1eec9755b4237a44af684f8',
+        '728d8572d4f1243d46445394b5bcda45',
         ],
 }
 
