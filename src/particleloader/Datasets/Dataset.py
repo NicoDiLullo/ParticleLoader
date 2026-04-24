@@ -9,6 +9,11 @@ import numpy as np
 from urllib.request import urlretrieve
 from urllib.error import HTTPError, URLError
 
+#TEMPORARY FIX
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
+#TODO REMOVE
+
 # Dataset class
 
 class Dataset:

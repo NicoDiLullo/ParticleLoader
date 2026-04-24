@@ -1,7 +1,7 @@
 import numpy as np
 from particleloader import load
 
-path = #Replace with your local path
+path = "/Users/nicholasdilullo/Desktop/research/LeBlancLab/datasets"
 
 def download():
     for dtype in ["fp32", "fp16", "fp8e4m3fn"]:
